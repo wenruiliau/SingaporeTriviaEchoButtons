@@ -13,7 +13,7 @@
 
 const questions = require('./questions');
 const settings = require('./settings');
-const GAME_TITLE = 'Better with Buttons Trivia';
+const GAME_TITLE = 'Trivia about Singapore';
 
 const messages = {
   en: {
